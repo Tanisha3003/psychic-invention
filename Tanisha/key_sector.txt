@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact - Role of AI in Vikshit Bharat</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1 style="font-size: 70px;">Contact Role of AI in Vikshit Bharat</h1>
+        <nav>
+            <ul>
+                <li><a href="main.html">Home</a></li>
+                <li><a href="introduction.html">Introduction</a></li>
+                <li><a href="key_sector.html">AI in Key Sectors:</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>AI in Key Sectors</h2>
+            <div class="container">
+                <div class="section1"><strong> Agriculture </strong> 
+                   <p>AI can revolutionize farming practices through precision agriculture, enabling data-driven decisions on resource utilization, crop health prediction, and disease prevention. This can lead to increased agricultural productivity and reduced environmental impact.</p>
+                </div>
+                <div class="section2"><strong> Healthcare </strong>
+                    <p>AI can revolutionize healthcare by supporting early disease detection, personalized medicine, and efficient medical research. Automated diagnostics, robotic-assisted surgery, and telehealth advancements powered by AI can improve access to quality healthcare for all citizens.</p>
+                </div>
+                <div class="section3"><strong> Education </strong>
+                    <p>AI can personalize learning, adapt to individual student needs, and create engaging educational experiences. Intelligent tutoring systems, adaptive learning platforms, and AI-powered assessments can enhance the learning process and bridge skill gaps.</p>
+                </div>
+                <div class="section4"><strong>Infrastructure and Urban Development:</strong>\
+                    <p>AI can contribute to smarter cities by optimizing traffic flow, managing energy consumption, and predicting infrastructure maintenance needs. AI-powered systems can contribute to better waste management, sustainable resource utilization, and real-time disaster response mechanisms.</p>
+                </div>
+              </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Role of AI in Vikshit Bharat</p>
+    </footer>
+</body>
+</html>
